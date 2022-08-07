@@ -2,7 +2,7 @@
   "name": "gradebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://atpriyanshu.github.io/intro-react/
+  "homepage": "https://atpriyanshu.github.io/intro-react/",
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
